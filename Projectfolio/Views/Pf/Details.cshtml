@@ -1,0 +1,117 @@
+﻿@model Projectfolio.Models.Project
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Project</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Author.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Author.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectDetails.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectDetails.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortDesc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShortDesc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categories)
+        </dt>
+
+        <dd>
+            @foreach (var category in Model.Categories)
+            {
+                @category.CategoryName
+                @Html.Raw(" ");
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isPublic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isPublic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isFinished)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isFinished)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.URL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.URL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateCreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectDetails.FilePath)
+        </dt>
+
+        <dd>
+            <a href="@Html.DisplayFor(model => model.ProjectDetails.FilePath)"> Download </a>
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectDetails.Size)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectDetails.Size)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectDetails.FileName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectDetails.FileName)
+        </dd>
+
+    </dl>
+</div>
+<p> |
+    @Html.ActionLink("Back to List", "Index")
+</p>

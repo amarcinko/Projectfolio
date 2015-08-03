@@ -1,0 +1,68 @@
+﻿@model Projectfolio.Models.Project
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>
+    @Html.DisplayFor(model => model.ProjectName)
+    </h4>
+    <hr />
+
+    <div class="row">
+        <div class="col-sm-6">
+
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.ShortDesc)
+                @Html.DisplayFor(model => model.ShortDesc)
+            </div>
+
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.isPublic)
+                @Html.DisplayFor(model => model.isPublic)
+            </div>
+
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.isFinished)
+                @Html.DisplayFor(model => model.isFinished)
+            </div>
+
+            <div class="col-md-10">
+                @Html.LabelFor(model => model.URL)
+                @Html.DisplayFor(model => model.URL)
+            </div>
+            <div class="col-md-10">
+                <table>
+                    <tr>
+                        @Html.LabelFor(model => model.Categories)
+                        @foreach (var category in Model.Categories)
+                        {
+                            @category.CategoryName
+                            @Html.Raw(" ");
+                        }
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="col-md-9">
+                @Html.LabelFor(model => model.ProjectDetails.Description)
+                @Html.DisplayFor(model => model.ProjectDetails.Description)
+            </div>
+
+            <div class="col-md-9" style="padding: 15px;">
+                <a href="@Html.DisplayFor(model => model.ProjectDetails.FilePath)"> Download </a>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

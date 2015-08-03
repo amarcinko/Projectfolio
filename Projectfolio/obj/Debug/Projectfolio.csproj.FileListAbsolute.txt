@@ -1,0 +1,110 @@
+c:\users\anđelko marčinko\documents\visual studio 2013\Projects\Projectfolio\Projectfolio\obj\Debug\Projectfolio.csprojResolveAssemblyReference.cache
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Projectfolio.dll.config
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Projectfolio.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Projectfolio.pdb
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Antlr3.Runtime.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\EntityFramework.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\EntityFramework.SqlServer.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Newtonsoft.Json.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Helpers.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Mvc.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Optimization.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Razor.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\WebGrease.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\EntityFramework.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\EntityFramework.SqlServer.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Helpers.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Mvc.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Optimization.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.Razor.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Antlr3.Runtime.pdb
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Newtonsoft.Json.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\obj\Debug\Projectfolio.dll
+C:\Users\Anđelko Marčinko\Documents\Visual Studio 2013\Projects\Projectfolio\Projectfolio\obj\Debug\Projectfolio.pdb
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Projectfolio.dll.config
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Projectfolio.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Projectfolio.pdb
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Antlr3.Runtime.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\EntityFramework.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\EntityFramework.SqlServer.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Newtonsoft.Json.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Owin.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Helpers.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Mvc.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Optimization.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Razor.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\WebGrease.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\EntityFramework.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\EntityFramework.SqlServer.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Helpers.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Mvc.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Optimization.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.Razor.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Antlr3.Runtime.pdb
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Newtonsoft.Json.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\obj\Debug\Projectfolio.csprojResolveAssemblyReference.cache
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\obj\Debug\Projectfolio.dll
+C:\Users\Anđelko Marčinko\Documents\Projekti\Projectfolio\Projectfolio\obj\Debug\Projectfolio.pdb

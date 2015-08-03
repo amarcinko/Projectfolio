@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Projectfolio.Models.Project>
+
+@{
+    ViewBag.Title = "Projects";
+}
+
+<h3>All projects - @ViewBag.UserName</h3>
+
+<p>
+    @Html.ActionLink("Create New", "Create") |
+    @Html.ActionLink("View Proflie", "ViewProfile")
+</p>
+
+<div class="all-projects-div">
+        @foreach (var item in Model)
+    {
+        if (item.isFinished) { ViewBag.ProjBack = "#399EDB"; }
+        else { ViewBag.ProjBack = "#DB3971"; }
+        if (item.isPublic) { ViewBag.ProjOpa = "1"; }
+        else { ViewBag.ProjOpa = "0.7"; }
+            <a title="Details" href="@Url.Action("ProjectDetails", new { id = item.Id })">
+                <div class="project-div" style="background-color: @ViewBag.ProjBack; opacity: @ViewBag.ProjOpa;">
+                    <div class="project-name">
+                        @Html.DisplayFor(modelItem => item.ProjectName)
+                    </div>
+                    <div class="project-desc">
+                        @Html.DisplayFor(modelItem => item.ShortDesc)
+                    </div>
+                    <div class="project-finpub">
+                        @Html.DisplayFor(modelItem => item.isFinished) Finished <br>
+                        @Html.DisplayFor(modelItem => item.isPublic) Public
+                    </div>
+                    <div class="project-footer">
+                        <a title="Visit page" target="_blank" href="@item.URL"><span class="glyphicon glyphicon-link" /></a>
+                        <a title="Details" href="@Url.Action("ProjectDetails", new { id = item.Id })">
+                            <i class="glyphicon glyphicon-th-list"></i>
+                            <span class="sr-only">Details</span>
+                        </a>
+                        <a title="Edit" href="@Url.Action("Edit", new { id = item.Id })">
+                            <i class="glyphicon glyphicon-pencil"></i>
+                            <span class="sr-only">Edit</span>
+                        </a>
+                        <a title="Delete" href="@Url.Action("Delete", new { id = item.Id })">
+                            <i class="glyphicon glyphicon-remove-sign"></i>
+                            <span class="sr-only">Delete</span>
+                        </a>
+                    </div>
+                </div>
+              </a>
+                }
+</div>
+

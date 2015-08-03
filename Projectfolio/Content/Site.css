@@ -1,0 +1,94 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.all-projects-div {
+    width: 100%;
+    float: left;
+}
+
+.project-div {
+    width: 23%;
+    height: 150px;
+    max-height: 200px;
+    margin: 5px;
+    float: left;
+    position: relative;
+    color: white;
+}
+
+.project-div:hover{
+   border: #246084 solid 3px;
+}
+
+.project-div a {
+    color: white;
+    text-decoration: none;
+}
+
+.project-name {
+    width: 100%;
+    font-size: 20px;
+    padding: 15px 0px 0px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.project-author {
+    position:absolute; 
+    top:0;
+    right:0;
+    text-align: right;
+    width: 100%;
+    padding: 2px 8px 2px 2px;
+    font-size: 10px;
+}
+
+.project-footer {
+    position:absolute; 
+    bottom:0;
+    text-align: right;
+    width: 100%;
+    padding: 2px 12px 2px 2px;
+    font-size: 20px;
+}
+
+.project-footer a {
+    color: white;
+}
+
+.project-footer a:hover {
+    text-decoration: none;
+    color: #0094ff;
+}
+
+.project-finpub {
+  position:absolute; 
+  bottom:0;
+  font-size: 10px;
+  padding: 2px 12px 2px 12px;
+}
+
+.project-desc{
+    padding: 5px 0px 0px 20px;
+}

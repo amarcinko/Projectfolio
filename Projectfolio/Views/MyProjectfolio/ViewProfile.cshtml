@@ -1,0 +1,50 @@
+﻿@model Projectfolio.Models.UserDetails
+
+@{
+    ViewBag.Title = "ViewProfile";
+}
+
+<h2>ViewProfile</h2>
+
+<div>
+    <h4>UserDetails</h4>
+    <hr />
+    <div class="row">
+        <div class="col-sm-6">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.User.Email)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.User.Email)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CV)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CV)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Address)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Address)
+                </dd>
+
+            </dl>
+        </div>
+        <div class="col-sm-6">
+            <img src="@Html.DisplayFor(model => model.ImagePath)" height="400" width="300">
+        </div>
+    </div>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditUserDetails") |
+    @Html.ActionLink("Back to List", "Index")
+</p>

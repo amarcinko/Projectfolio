@@ -1,0 +1,25 @@
+﻿<div class="jumbotron">
+    <h1>Projectfolio</h1>
+    <p class="lead">Projectfolio is simple ASP.NET MVC application for presenting projects.</p>
+    <p>@Html.ActionLink("Browse projects", "AllUsers", "Pf", routeValues: null, htmlAttributes: new { @class = "btn btn-primary btn-lg" })</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            Register account and you can start uploading projects.
+        </p>
+        <p>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink", @class = "btn btn-default" })</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Learn more</h2>
+        <p>Learn more about projectfolio application</p>
+        <p>@Html.ActionLink("About", "About", "Home", null, htmlAttributes: new { @class = "btn btn-default" })</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Log in</h2>
+        <p>If you already have account Log in!</p>
+        <p>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink", @class = "btn btn-default" })</p>
+    </div>
+</div>
